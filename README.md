@@ -1,6 +1,6 @@
 # maven-project
-Source code for James Lee's Jenkins course.
-
-Check out our Latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book
+echo "This is a program of script"
+echo "This is in build step"  
+echo "THis is param $passed"
+NUM = $($firstnumber + $secondnumber)
+echo "$NUM" 
